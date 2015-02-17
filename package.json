@@ -1,0 +1,23 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "node.js rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "rest-api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/censhin/node-rest-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/censhin/node-rest-api/issues"
+  },
+  "homepage": "https://github.com/censhin/node-rest-api",
+  "dependencies": {
+    "express": "^4.11.2",
+    "pg": "^4.2.0"
+  }
+}
